@@ -1,4 +1,4 @@
-# 🚗 Used Car Price Analysis & Prediction
+<img width="1467" height="422" alt="image" src="https://github.com/user-attachments/assets/e792f7a9-5502-4b23-964b-4a5d7730fa6b" /><img width="1467" height="422" alt="image" src="https://github.com/user-attachments/assets/0eae0874-d196-4fd2-9886-6bc5b33432d6" /># 🚗 Used Car Price Analysis & Prediction
 
 ## 📌 Project Overview
 
@@ -157,6 +157,8 @@ Used-Car-Price-Prediction/
 ---
 
 ## 📸 Sample Outputs
+
+
 
 ![Heatmap](plots/correlation_heatmap.png)
 
